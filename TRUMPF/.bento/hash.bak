@@ -1,10 +1,10 @@
-Version=58
+Version=54
 BRAND=TRUMPF
 FLAVOR=TRUMPF
 LANGUAGE=EN
 TRUMPF=
-Folders=2
-Pages=38
+Folders=4
+Pages=60
 UIXlate=False, DebugUIXlate=False, Language=EN
 
 contents.txt • 253216.123234
@@ -12,39 +12,64 @@ Index.adoc • L99 Maintenance Manual
 Maintenance.adoc • Maintenance overview
 manifest.txt • 251811.021854
 SafetyInstruction.adoc • Safety instructions
-MaintenanceTask\1000h.adoc • Check the safety door lock of the protective door
-MaintenanceTask\100h1.adoc • Check the filter mat and cleaning/replacing if necessary
-MaintenanceTask\100h2.adoc • Check and clean the laser filter mat
-MaintenanceTask\2000h.adoc • Lubricating the fixing device on pallet changer
-MaintenanceTask\2000h1.adoc • Check the filter of dispatch
-MaintenanceTask\2000h10.adoc • Clean the splash plate
-MaintenanceTask\2000h11.adoc • Checking the lubrication line for air pockets, and exhaust if necessary
-MaintenanceTask\2000h12.adoc • Cleaning and lubricating the chain, cam and guide rail of the pallet transport unit
-MaintenanceTask\2000h13.adoc • Check the track rollers and brushes at the pallet
-MaintenanceTask\2000h2.adoc • Testing the input controller for operating pressure
-MaintenanceTask\2000h3.adoc • Replace the filter of the compressed air device
-MaintenanceTask\2000h4.adoc • Compressed air cutting - replace the filter element
-MaintenanceTask\2000h5.adoc • Check the indicator light of the machine
-MaintenanceTask\2000h6.adoc • Clean the guideway, front seal and strippers of the X, Y and Z axes
-MaintenanceTask\2000h7.adoc • Cleaning the racks on the X and Y axes
-MaintenanceTask\2000h8.adoc • Check and clean the bellows on the X and Y axes
-MaintenanceTask\2000h9.adoc • Clean the grease collecting tray
-MaintenanceTask\200h.adoc • Replacing the air filter of the electrical cabinet fan
-MaintenanceTask\200h1.adoc • Cleaning the screen, keyboard and mouse
-MaintenanceTask\200h2.adoc • Clean the safety light barrier
-MaintenanceTask\200h3.adoc • Cleaning the laser protection window
-MaintenanceTask\200h4.adoc • Check the rubber fins
-MaintenanceTask\3000h.adoc • Change the cooling water
-MaintenanceTask\3000h1.adoc • Measure the conductivity of the cooling water
-MaintenanceTask\3000h2.adoc • Testing EMERGENCY STOP push-button
-MaintenanceTask\4000h.adoc • Check the guide carriage on the Z axe
-MaintenanceTask\40h.adoc • Emptying the condensed water container
-MaintenanceTask\500h.adoc • Check the purging valve
-MaintenanceTask\500h1.adoc • Compressed air cutting - replace the activated carbon filter
-MaintenanceTask\500h2.adoc • Check the pre-filter element and replace it if necessary
-MaintenanceTask\500h3.adoc • Clean the calibration plate and nozzle cleaning brushes
-MaintenanceTask\500h4.adoc • Check the traction chain and drive pin
-MaintenanceTask\500h5.adoc • Check the plate positioning clamp
-MaintenanceTask\7000h.adoc • Replace the filter cartridge
-MaintenanceTask\contents.txt • 255612.055610
+MaintenanceTask\contents.txt • 252726.122736
 MaintenanceTask\Index.adoc • Maintenance tasks
+MaintenanceTask\DailyMaintenance\8h.adoc • Check or clean disposable container
+MaintenanceTask\DailyMaintenance\8h1.adoc • Check the pressure reducer and compressed air supply
+MaintenanceTask\DailyMaintenance\8h10.adoc • Check the blind strips of the pallets
+MaintenanceTask\DailyMaintenance\8h11.adoc • Empty the storage bin and clean the loading area
+MaintenanceTask\DailyMaintenance\8h12.adoc • Checking the safety light barrier
+MaintenanceTask\DailyMaintenance\8h13.adoc • Cleaning the ceramic part in cutting unit (KL59)
+MaintenanceTask\DailyMaintenance\8h14.adoc • Cleaning and, if necessary, replacing the cutting nozzle and lateral air blast nozzle
+MaintenanceTask\DailyMaintenance\8h15.adoc • Cleaning the ceramic part in cutting unit (BM111)
+MaintenanceTask\DailyMaintenance\8h16.adoc • Clean the nozzle, and replace if necessary
+MaintenanceTask\DailyMaintenance\8h17.adoc • Cleaning the protective lens
+MaintenanceTask\DailyMaintenance\8h18.adoc • Repair and installation of the protective Lens
+MaintenanceTask\DailyMaintenance\8h19.adoc • Draining with a water-collecting container
+MaintenanceTask\DailyMaintenance\8h2.adoc • Check differential pressure indicator
+MaintenanceTask\DailyMaintenance\8h3.adoc • Check the dust collection box
+MaintenanceTask\DailyMaintenance\8h4.adoc • Cleaning the internal exhaust module
+MaintenanceTask\DailyMaintenance\8h5.adoc • Check safety cabin and laser protection window
+MaintenanceTask\DailyMaintenance\8h6.adoc • Check the proximity switch at pallet gate
+MaintenanceTask\DailyMaintenance\8h7.adoc • Clean the machine and working area
+MaintenanceTask\DailyMaintenance\8h8.adoc • Cleaning the slats and slat support, and replacing them if necessary
+MaintenanceTask\DailyMaintenance\8h9.adoc • Check the pallet for damage
+MaintenanceTask\DailyMaintenance\contents.txt • 252326.062326
+MaintenanceTask\DailyMaintenance\Index.adoc • Daily maintenance
+MaintenanceTask\RoutineMaintenance\1000h.adoc • Check the safety door lock of the protective door
+MaintenanceTask\RoutineMaintenance\100h1.adoc • Check the filter mat and cleaning/replacing if necessary
+MaintenanceTask\RoutineMaintenance\100h2.adoc • Check and clean the laser filter mat
+MaintenanceTask\RoutineMaintenance\2000h.adoc • Lubricating the fixing device on pallet changer
+MaintenanceTask\RoutineMaintenance\2000h1.adoc • Check the filter of dispatch
+MaintenanceTask\RoutineMaintenance\2000h10.adoc • Clean the splash plate
+MaintenanceTask\RoutineMaintenance\2000h11.adoc • Checking the lubrication line for air pockets, and exhaust if necessary
+MaintenanceTask\RoutineMaintenance\2000h12.adoc • Cleaning and lubricating the chain, cam and guide rail of the pallet transport unit
+MaintenanceTask\RoutineMaintenance\2000h13.adoc • Check the track rollers and brushes at the pallet
+MaintenanceTask\RoutineMaintenance\2000h2.adoc • Testing the input controller for operating pressure
+MaintenanceTask\RoutineMaintenance\2000h3.adoc • Replace the filter of the compressed air device
+MaintenanceTask\RoutineMaintenance\2000h4.adoc • Compressed air cutting - replace the filter element
+MaintenanceTask\RoutineMaintenance\2000h5-1.adoc • Check the sealing strip at the front door
+MaintenanceTask\RoutineMaintenance\2000h5.adoc • Check the indicator light of the machine
+MaintenanceTask\RoutineMaintenance\2000h6.adoc • Clean the guideway, front seal and strippers of the X, Y and Z axes
+MaintenanceTask\RoutineMaintenance\2000h7.adoc • Cleaning the racks on the X and Y axes
+MaintenanceTask\RoutineMaintenance\2000h8.adoc • Check and clean the bellows on the X and Y axes
+MaintenanceTask\RoutineMaintenance\2000h9.adoc • Clean the grease collecting tray
+MaintenanceTask\RoutineMaintenance\200h.adoc • Replacing the air filter of the electrical cabinet fan
+MaintenanceTask\RoutineMaintenance\200h1.adoc • Cleaning the screen, keyboard and mouse
+MaintenanceTask\RoutineMaintenance\200h2.adoc • Clean the safety light barrier
+MaintenanceTask\RoutineMaintenance\200h3.adoc • Cleaning the laser protection window
+MaintenanceTask\RoutineMaintenance\200h4.adoc • Check the rubber fins
+MaintenanceTask\RoutineMaintenance\3000h.adoc • Change the cooling water
+MaintenanceTask\RoutineMaintenance\3000h1.adoc • Measure the conductivity of the cooling water
+MaintenanceTask\RoutineMaintenance\3000h2.adoc • Testing EMERGENCY STOP push-button
+MaintenanceTask\RoutineMaintenance\4000h.adoc • Check the guide carriage on the Z axe
+MaintenanceTask\RoutineMaintenance\40h.adoc • Emptying the condensed water container
+MaintenanceTask\RoutineMaintenance\500h.adoc • Check the purging valve
+MaintenanceTask\RoutineMaintenance\500h1.adoc • Compressed air cutting - replace the activated carbon filter
+MaintenanceTask\RoutineMaintenance\500h2.adoc • Check the pre-filter element and replace it if necessary
+MaintenanceTask\RoutineMaintenance\500h3.adoc • Clean the calibration plate and nozzle cleaning brushes
+MaintenanceTask\RoutineMaintenance\500h4.adoc • Check the traction chain and drive pin
+MaintenanceTask\RoutineMaintenance\500h5.adoc • Check the plate positioning clamp
+MaintenanceTask\RoutineMaintenance\7000h.adoc • Replace the filter cartridge
+MaintenanceTask\RoutineMaintenance\contents.txt • 255427.015427
+MaintenanceTask\RoutineMaintenance\Index.adoc • Routine maintenance
