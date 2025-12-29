@@ -4,7 +4,7 @@ FLAVOR=TRUMPF
 LANGUAGE=EN
 TRUMPF=
 Folders=4
-Pages=60
+Pages=61
 UIXlate=False, DebugUIXlate=False, Language=EN
 
 contents.txt • 253216.123234
@@ -12,7 +12,7 @@ Index.adoc • L99 Maintenance Manual
 Maintenance.adoc • Maintenance overview
 manifest.txt • 251811.021854
 SafetyInstruction.adoc • Safety instructions
-MaintenanceTask\contents.txt • 252726.122736
+MaintenanceTask\contents.txt • 253927.043949
 MaintenanceTask\Index.adoc • Maintenance tasks
 MaintenanceTask\DailyMaintenance\8h.adoc • Check or clean disposable container
 MaintenanceTask\DailyMaintenance\8h1.adoc • Check the pressure reducer and compressed air supply
@@ -34,7 +34,7 @@ MaintenanceTask\DailyMaintenance\8h6.adoc • Check the proximity switch at pall
 MaintenanceTask\DailyMaintenance\8h7.adoc • Clean the machine and working area
 MaintenanceTask\DailyMaintenance\8h8.adoc • Cleaning the slats and slat support, and replacing them if necessary
 MaintenanceTask\DailyMaintenance\8h9.adoc • Check the pallet for damage
-MaintenanceTask\DailyMaintenance\contents.txt • 252326.062326
+MaintenanceTask\DailyMaintenance\contents.txt • 252429.022454
 MaintenanceTask\DailyMaintenance\Index.adoc • Daily maintenance
 MaintenanceTask\RoutineMaintenance\1000h.adoc • Check the safety door lock of the protective door
 MaintenanceTask\RoutineMaintenance\100h1.adoc • Check the filter mat and cleaning/replacing if necessary
@@ -71,5 +71,5 @@ MaintenanceTask\RoutineMaintenance\500h3.adoc • Clean the calibration plate an
 MaintenanceTask\RoutineMaintenance\500h4.adoc • Check the traction chain and drive pin
 MaintenanceTask\RoutineMaintenance\500h5.adoc • Check the plate positioning clamp
 MaintenanceTask\RoutineMaintenance\7000h.adoc • Replace the filter cartridge
-MaintenanceTask\RoutineMaintenance\contents.txt • 255427.015427
-MaintenanceTask\RoutineMaintenance\Index.adoc • Routine maintenance
+MaintenanceTask\RoutineMaintenance\contents.txt • 253927.043949
+MaintenanceTask\RoutineMaintenance\Index.adoc • Customer maintenance
