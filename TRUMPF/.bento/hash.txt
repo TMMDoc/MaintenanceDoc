@@ -1,4 +1,4 @@
-Version=54
+Version=58
 BRAND=TRUMPF
 FLAVOR=TRUMPF
 LANGUAGE=EN
@@ -62,7 +62,7 @@ MaintenanceTask\RoutineMaintenance\200h4.adoc • Check the rubber fins
 MaintenanceTask\RoutineMaintenance\3000h.adoc • Change the cooling water
 MaintenanceTask\RoutineMaintenance\3000h1.adoc • Measure the conductivity of the cooling water
 MaintenanceTask\RoutineMaintenance\3000h2.adoc • Testing EMERGENCY STOP push-button
-MaintenanceTask\RoutineMaintenance\4000h.adoc • Check the guide carriage on the Z axe
+MaintenanceTask\RoutineMaintenance\4000h.adoc • Check the guide carriage on the 'Z' axis
 MaintenanceTask\RoutineMaintenance\40h.adoc • Emptying the condensed water container
 MaintenanceTask\RoutineMaintenance\500h.adoc • Check the purging valve
 MaintenanceTask\RoutineMaintenance\500h1.adoc • Compressed air cutting - replace the activated carbon filter
