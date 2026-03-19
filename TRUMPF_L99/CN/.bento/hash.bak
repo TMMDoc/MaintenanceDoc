@@ -1,0 +1,83 @@
+Version=58
+BRAND=TRUMPF
+FLAVOR=VULCAN
+LANGUAGE=EN
+VULCAN=
+Folders=4
+Pages=61
+UIXlate=False, DebugUIXlate=False, Language=EN
+
+contents.txt • 265627.125626
+Index.adoc • L99维护手册
+Maintenance.adoc • 维护概述
+Maintenance.txt
+manifest.txt • 263918.033930
+SafetyInstruction.adoc • 安全说明
+SafetyInstruction.txt
+MaintenanceTask\contents.txt • 265627.125626
+MaintenanceTask\Index.adoc • 维护任务
+MaintenanceTask\Index.txt
+MaintenanceTask\DailyMaintenance\8h.adoc • 检查或清洁一次性容器
+MaintenanceTask\DailyMaintenance\8h.txt
+MaintenanceTask\DailyMaintenance\8h1.adoc • 检查减压器和压缩空气供应
+MaintenanceTask\DailyMaintenance\8h1.txt
+MaintenanceTask\DailyMaintenance\8h10.adoc • 检查工作台上的遮挡板
+MaintenanceTask\DailyMaintenance\8h11.adoc • 清空收集器并清洁插入区域
+MaintenanceTask\DailyMaintenance\8h12.adoc • 检查安全光栅
+MaintenanceTask\DailyMaintenance\8h13.adoc • 清洁陶瓷体（KL59）
+MaintenanceTask\DailyMaintenance\8h14.adoc • 清洁切割喷嘴和横向吹嘴，必要时更换
+MaintenanceTask\DailyMaintenance\8h15.adoc • 清洁切割单元中的陶瓷部件（BM111）
+MaintenanceTask\DailyMaintenance\8h16.adoc • 清洁喷嘴，必要时更换
+MaintenanceTask\DailyMaintenance\8h17.adoc • 清洁防护镜片
+MaintenanceTask\DailyMaintenance\8h18.adoc • 防护镜片的维修和安装
+MaintenanceTask\DailyMaintenance\8h19.adoc • 排空冷凝水收集器
+MaintenanceTask\DailyMaintenance\8h2.adoc • 检查差压指示器
+MaintenanceTask\DailyMaintenance\8h2.txt
+MaintenanceTask\DailyMaintenance\8h3.adoc • 检查集尘盒
+MaintenanceTask\DailyMaintenance\8h3.txt
+MaintenanceTask\DailyMaintenance\8h4.adoc • 清洁内部排气模块
+MaintenanceTask\DailyMaintenance\8h4.txt
+MaintenanceTask\DailyMaintenance\8h5.adoc • 检查床身罩壳和激光防护视窗
+MaintenanceTask\DailyMaintenance\8h6.adoc • 检查后门接近开关
+MaintenanceTask\DailyMaintenance\8h7.adoc • 清洁机床和工作间
+MaintenanceTask\DailyMaintenance\8h8.adoc • 清洁剑栅以及剑栅架，必要时进行更换
+MaintenanceTask\DailyMaintenance\8h9.adoc • 检查工作台是否有损坏
+MaintenanceTask\DailyMaintenance\contents.txt • 265627.125626
+MaintenanceTask\DailyMaintenance\Index.adoc • 日常保养
+MaintenanceTask\RoutineMaintenance\1000h.adoc • 检查保护门安全门锁
+MaintenanceTask\RoutineMaintenance\100h1.adoc • 检查过滤网,必要时清洁并更换
+MaintenanceTask\RoutineMaintenance\100h2.adoc • 检查并清洗激光器过滤网
+MaintenanceTask\RoutineMaintenance\2000h.adoc • 润滑交换台固定装置
+MaintenanceTask\RoutineMaintenance\2000h1.adoc • 更换油水分离器的滤芯
+MaintenanceTask\RoutineMaintenance\2000h10.adoc • 清洁防溅板
+MaintenanceTask\RoutineMaintenance\2000h11.adoc • 检查润滑管路是否气塞，必要时排气
+MaintenanceTask\RoutineMaintenance\2000h12.adoc • 清洁并润滑工作台输送机的链条、导向槽以及定位销
+MaintenanceTask\RoutineMaintenance\2000h13.adoc • 检查工作台上的滚轮和刷子
+MaintenanceTask\RoutineMaintenance\2000h2.adoc • 检查工作压力的输入端调节器
+MaintenanceTask\RoutineMaintenance\2000h3.adoc • 更换压缩空气装置的过滤器
+MaintenanceTask\RoutineMaintenance\2000h4.adoc • 压缩空气切割：更换过滤器滤芯
+MaintenanceTask\RoutineMaintenance\2000h5-1.adoc • 检查前门的密封条
+MaintenanceTask\RoutineMaintenance\2000h5.adoc • 检查机床的指示灯
+MaintenanceTask\RoutineMaintenance\2000h6.adoc • 清洁X、Y、Z轴的导轨、附加密封件和刮板
+MaintenanceTask\RoutineMaintenance\2000h7.adoc • 清洁X、Y轴齿条
+MaintenanceTask\RoutineMaintenance\2000h8.adoc • 检查并清洁X轴和Y轴的风琴式保护罩
+MaintenanceTask\RoutineMaintenance\2000h9.adoc • 清洁油脂收集槽
+MaintenanceTask\RoutineMaintenance\200h.adoc • 更换电气柜风扇的空气过滤器
+MaintenanceTask\RoutineMaintenance\200h1.adoc • 清洁屏幕显示器、键盘和鼠标
+MaintenanceTask\RoutineMaintenance\200h2.adoc • 清洁安全光栅
+MaintenanceTask\RoutineMaintenance\200h3.adoc • 清洁激光防护视窗
+MaintenanceTask\RoutineMaintenance\200h4.adoc • 检查激光幕帘
+MaintenanceTask\RoutineMaintenance\3000h.adoc • 更换冷却水
+MaintenanceTask\RoutineMaintenance\3000h1.adoc • 测量冷却水导电性
+MaintenanceTask\RoutineMaintenance\3000h2.adoc • 检查急停按钮
+MaintenanceTask\RoutineMaintenance\4000h.adoc • 检查Z轴滑块
+MaintenanceTask\RoutineMaintenance\40h.adoc • 清空冷凝水容器
+MaintenanceTask\RoutineMaintenance\500h.adoc • 检查反吹阀门
+MaintenanceTask\RoutineMaintenance\500h1.adoc • 压缩空气切割：更换活性炭过滤器
+MaintenanceTask\RoutineMaintenance\500h2.adoc • 检查预滤器滤芯，必要时更换
+MaintenanceTask\RoutineMaintenance\500h3.adoc • 清洁校准板和喷嘴清洁刷
+MaintenanceTask\RoutineMaintenance\500h4.adoc • 检查牵引链条和传动销
+MaintenanceTask\RoutineMaintenance\500h5.adoc • 检查板料定位夹钳（选项）
+MaintenanceTask\RoutineMaintenance\7000h.adoc • 更换滤芯筒
+MaintenanceTask\RoutineMaintenance\contents.txt • 265627.125626
+MaintenanceTask\RoutineMaintenance\Index.adoc • 客户维护
