@@ -1,26 +1,21 @@
 Version=58
 BRAND=TRUMPF
-FLAVOR=VULCAN
+FLAVOR=TRUMPF
 LANGUAGE=EN
-VULCAN=
+TRUMPF=
 Folders=4
 Pages=61
 UIXlate=False, DebugUIXlate=False, Language=EN
 
-contents.txt • 265627.125626
+contents.txt • 262206.062254
 Index.adoc • L99维护手册
 Maintenance.adoc • 维护概述
-Maintenance.txt
-manifest.txt • 263918.033930
+manifest.txt • 262406.062442
 SafetyInstruction.adoc • 安全说明
-SafetyInstruction.txt
-MaintenanceTask\contents.txt • 265627.125626
+MaintenanceTask\contents.txt • 262206.062254
 MaintenanceTask\Index.adoc • 维护任务
-MaintenanceTask\Index.txt
-MaintenanceTask\DailyMaintenance\8h.adoc • 检查或清洁一次性容器
-MaintenanceTask\DailyMaintenance\8h.txt
+MaintenanceTask\DailyMaintenance\8h.adoc • 检查或清理粉尘容器
 MaintenanceTask\DailyMaintenance\8h1.adoc • 检查减压器和压缩空气供应
-MaintenanceTask\DailyMaintenance\8h1.txt
 MaintenanceTask\DailyMaintenance\8h10.adoc • 检查工作台上的遮挡板
 MaintenanceTask\DailyMaintenance\8h11.adoc • 清空收集器并清洁插入区域
 MaintenanceTask\DailyMaintenance\8h12.adoc • 检查安全光栅
@@ -31,18 +26,15 @@ MaintenanceTask\DailyMaintenance\8h16.adoc • 清洁喷嘴，必要时更换
 MaintenanceTask\DailyMaintenance\8h17.adoc • 清洁防护镜片
 MaintenanceTask\DailyMaintenance\8h18.adoc • 防护镜片的维修和安装
 MaintenanceTask\DailyMaintenance\8h19.adoc • 排空冷凝水收集器
-MaintenanceTask\DailyMaintenance\8h2.adoc • 检查差压指示器
-MaintenanceTask\DailyMaintenance\8h2.txt
-MaintenanceTask\DailyMaintenance\8h3.adoc • 检查集尘盒
-MaintenanceTask\DailyMaintenance\8h3.txt
+MaintenanceTask\DailyMaintenance\8h2.adoc • 检查差压显示器
+MaintenanceTask\DailyMaintenance\8h3.adoc • 检查粉尘收集盒
 MaintenanceTask\DailyMaintenance\8h4.adoc • 清洁内部排气模块
-MaintenanceTask\DailyMaintenance\8h4.txt
 MaintenanceTask\DailyMaintenance\8h5.adoc • 检查床身罩壳和激光防护视窗
 MaintenanceTask\DailyMaintenance\8h6.adoc • 检查后门接近开关
 MaintenanceTask\DailyMaintenance\8h7.adoc • 清洁机床和工作间
 MaintenanceTask\DailyMaintenance\8h8.adoc • 清洁剑栅以及剑栅架，必要时进行更换
 MaintenanceTask\DailyMaintenance\8h9.adoc • 检查工作台是否有损坏
-MaintenanceTask\DailyMaintenance\contents.txt • 265627.125626
+MaintenanceTask\DailyMaintenance\contents.txt • 262206.062253
 MaintenanceTask\DailyMaintenance\Index.adoc • 日常保养
 MaintenanceTask\RoutineMaintenance\1000h.adoc • 检查保护门安全门锁
 MaintenanceTask\RoutineMaintenance\100h1.adoc • 检查过滤网,必要时清洁并更换
@@ -79,5 +71,5 @@ MaintenanceTask\RoutineMaintenance\500h3.adoc • 清洁校准板和喷嘴清洁
 MaintenanceTask\RoutineMaintenance\500h4.adoc • 检查牵引链条和传动销
 MaintenanceTask\RoutineMaintenance\500h5.adoc • 检查板料定位夹钳（选项）
 MaintenanceTask\RoutineMaintenance\7000h.adoc • 更换滤芯筒
-MaintenanceTask\RoutineMaintenance\contents.txt • 265627.125626
+MaintenanceTask\RoutineMaintenance\contents.txt • 262206.062254
 MaintenanceTask\RoutineMaintenance\Index.adoc • 客户维护
