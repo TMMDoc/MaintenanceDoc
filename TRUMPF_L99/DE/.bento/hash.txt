@@ -1,0 +1,75 @@
+Version=58
+BRAND=TRUMPF
+FLAVOR=TRUMPF
+LANGUAGE=EN
+TRUMPF=
+Folders=4
+Pages=61
+UIXlate=False, DebugUIXlate=False, Language=EN
+
+contents.txt • 263621.063619
+Index.adoc • L99 Wartungshandbuch
+Maintenance.adoc • Wartungsübersicht
+manifest.txt • 263621.063619
+SafetyInstruction.adoc • Sicherheitshinweise
+MaintenanceTask\contents.txt • 263621.063619
+MaintenanceTask\Index.adoc • Wartungsaufgaben
+MaintenanceTask\DailyMaintenance\8h.adoc • Einwegbehälter prüfen oder reinigen
+MaintenanceTask\DailyMaintenance\8h1.adoc • Druckminderer und Druckluftversorgung prüfen
+MaintenanceTask\DailyMaintenance\8h10.adoc • Blindleisten der Paletten prüfen
+MaintenanceTask\DailyMaintenance\8h11.adoc • Auffangbehälter entleeren und Beladebereich reinigen
+MaintenanceTask\DailyMaintenance\8h12.adoc • Sicherheitslichtschranke prüfen
+MaintenanceTask\DailyMaintenance\8h13.adoc • Keramikteil der Schneideinheit (KL59) reinigen
+MaintenanceTask\DailyMaintenance\8h14.adoc • Schneiddüse und seitliche Blasdüse reinigen und bei Bedarf ersetzen
+MaintenanceTask\DailyMaintenance\8h15.adoc • Keramikteil der Schneideinheit (BM111) reinigen
+MaintenanceTask\DailyMaintenance\8h16.adoc • Düse reinigen und bei Bedarf ersetzen
+MaintenanceTask\DailyMaintenance\8h17.adoc • Schutzlinse reinigen
+MaintenanceTask\DailyMaintenance\8h18.adoc • Schutzlinse reparieren und einbauen
+MaintenanceTask\DailyMaintenance\8h19.adoc • Entwässerung mit Wasserauffangbehälter
+MaintenanceTask\DailyMaintenance\8h2.adoc • Differenzdruckanzeige prüfen
+MaintenanceTask\DailyMaintenance\8h3.adoc • Staubauffangbehälter prüfen
+MaintenanceTask\DailyMaintenance\8h4.adoc • Internes Absaugmodul reinigen
+MaintenanceTask\DailyMaintenance\8h5.adoc • Sicherheitskabine und Laserschutzfenster prüfen
+MaintenanceTask\DailyMaintenance\8h6.adoc • Näherungsschalter am Palettentor prüfen
+MaintenanceTask\DailyMaintenance\8h7.adoc • Maschine und Arbeitsbereich reinigen
+MaintenanceTask\DailyMaintenance\8h8.adoc • Lamellen und Lamellenauflagen reinigen und bei Bedarf ersetzen
+MaintenanceTask\DailyMaintenance\8h9.adoc • Palette auf Beschädigungen prüfen
+MaintenanceTask\DailyMaintenance\contents.txt • 263621.063619
+MaintenanceTask\DailyMaintenance\Index.adoc • Tägliche Wartung
+MaintenanceTask\RoutineMaintenance\1000h.adoc • Sicherheitstürschloss der Schutztür prüfen
+MaintenanceTask\RoutineMaintenance\100h1.adoc • Filtermatte prüfen und ggf. reinigen/ersetzen
+MaintenanceTask\RoutineMaintenance\100h2.adoc • Laser-Filtermatte prüfen und reinigen
+MaintenanceTask\RoutineMaintenance\2000h.adoc • Feststellvorrichtung am Palettenwechsler schmieren
+MaintenanceTask\RoutineMaintenance\2000h1.adoc • Filter der Absaugung prüfen
+MaintenanceTask\RoutineMaintenance\2000h10.adoc • Spritzschutzplatte reinigen
+MaintenanceTask\RoutineMaintenance\2000h11.adoc • Schmierleitung auf Lufteinschlüsse prüfen und bei Bedarf entlüften
+MaintenanceTask\RoutineMaintenance\2000h12.adoc • Kette, Nocken und Führungsschiene der Palettentransporteinheit reinigen und schmieren
+MaintenanceTask\RoutineMaintenance\2000h13.adoc • Laufrollen und Bürsten an der Palette prüfen
+MaintenanceTask\RoutineMaintenance\2000h2.adoc • Eingangsregler auf Betriebsdruck prüfen
+MaintenanceTask\RoutineMaintenance\2000h3.adoc • Filter der Druckluftanlage ersetzen
+MaintenanceTask\RoutineMaintenance\2000h4.adoc • Druckluftschneiden - Filterelement ersetzen
+MaintenanceTask\RoutineMaintenance\2000h5-1.adoc • Dichtungsleiste an der Fronttür prüfen
+MaintenanceTask\RoutineMaintenance\2000h5.adoc • Kontrollleuchte der Maschine prüfen
+MaintenanceTask\RoutineMaintenance\2000h6.adoc • Führungsbahn, Frontdichtung und Abstreifer der X-, Y- und Z-Achse reinigen
+MaintenanceTask\RoutineMaintenance\2000h7.adoc • Zahnstangen der X- und Y-Achse reinigen
+MaintenanceTask\RoutineMaintenance\2000h8.adoc • Faltenbälge der X- und Y-Achse prüfen und reinigen
+MaintenanceTask\RoutineMaintenance\2000h9.adoc • Fettauffangwanne reinigen
+MaintenanceTask\RoutineMaintenance\200h.adoc • Luftfilter des Schaltschrankventilators ersetzen
+MaintenanceTask\RoutineMaintenance\200h1.adoc • Bildschirm, Tastatur und Maus reinigen
+MaintenanceTask\RoutineMaintenance\200h2.adoc • Sicherheitslichtschranke reinigen
+MaintenanceTask\RoutineMaintenance\200h3.adoc • Laserschutzfenster reinigen
+MaintenanceTask\RoutineMaintenance\200h4.adoc • Gummilamellen prüfen
+MaintenanceTask\RoutineMaintenance\3000h.adoc • Kühlwasser wechseln
+MaintenanceTask\RoutineMaintenance\3000h1.adoc • Leitfähigkeit des Kühlwassers messen
+MaintenanceTask\RoutineMaintenance\3000h2.adoc • NOT-HALT-Drucktaster prüfen
+MaintenanceTask\RoutineMaintenance\4000h.adoc • Führungswagen der Z-Achse prüfen
+MaintenanceTask\RoutineMaintenance\40h.adoc • Kondenswasserbehälter entleeren
+MaintenanceTask\RoutineMaintenance\500h.adoc • Spülventil prüfen
+MaintenanceTask\RoutineMaintenance\500h1.adoc • Druckluftschneiden - Aktivkohlefilter ersetzen
+MaintenanceTask\RoutineMaintenance\500h2.adoc • Vorfilterelement prüfen und bei Bedarf ersetzen
+MaintenanceTask\RoutineMaintenance\500h3.adoc • Kalibrierplatte und Düsenreinigungsbürsten reinigen
+MaintenanceTask\RoutineMaintenance\500h4.adoc • Zugkette und Antriebsstift prüfen
+MaintenanceTask\RoutineMaintenance\500h5.adoc • Blechpositionierklemme prüfen
+MaintenanceTask\RoutineMaintenance\7000h.adoc • Filterpatrone ersetzen
+MaintenanceTask\RoutineMaintenance\contents.txt • 263621.063619
+MaintenanceTask\RoutineMaintenance\Index.adoc • Kundenwartung
