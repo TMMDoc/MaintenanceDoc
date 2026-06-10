@@ -6,7 +6,7 @@ UIXlate=False, DebugUIXlate=False, Language=EN
 
 001_Information_on_maintenance.adoc • Information on maintenance
 contents.txt • 264510.054536
-Index.adoc • Welcome to BFC maintenance manual
+Index.adoc • BFC Maintenance Manual
 manifest.txt • 263910.063933
 SafetyInstruction.adoc • Safety instructions
 img\image1.GIF
