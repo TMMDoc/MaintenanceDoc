@@ -4,48 +4,48 @@ Folders=4
 Pages=37
 UIXlate=False, DebugUIXlate=False, Language=EN
 
-001_Information_on_maintenance.adoc • Information on maintenance
-contents.txt • 264510.054536
+contents.txt • 261717.031742
 Index.adoc • BFC Maintenance Manual
-manifest.txt • 263910.063933
+Maintenance.adoc • Information on maintenance
+manifest.txt • 261717.031742
 SafetyInstruction.adoc • Safety instructions
 img\image1.GIF
-MaintenanceTask\contents.txt • 262210.062233
+MaintenanceTask\contents.txt • 261717.031742
 MaintenanceTask\Index.adoc • Maintenance tasks
-MaintenanceTask\CustomerMaintenance\003_Lubricating_the_Z_axis_guide_carriage.adoc • Lubricating the Z axis guide carriage
-MaintenanceTask\CustomerMaintenance\005_Check_the_dust_collection_box.adoc • Check the dust collection box
-MaintenanceTask\CustomerMaintenance\008_Replace_the_filter_cartridge.adoc • Replace the filter cartridge
-MaintenanceTask\CustomerMaintenance\012_Testing_and_cleaning_the_cable_carriers_on_the_X,_Y_and_Z_axes.adoc • Testing and cleaning the cable carriers on the X, Y and Z axes
-MaintenanceTask\CustomerMaintenance\013_Clean_the_guideway_of_the_X,_Y_axes.adoc • Clean the guideway of the X, Y axes
-MaintenanceTask\CustomerMaintenance\014_Cleaning_the_racks_on_the_X_and_Y_axes.adoc • Cleaning the racks on the X and Y axes
-MaintenanceTask\CustomerMaintenance\015_Check_and_clean_the_bellows_on_the_X,_Y_and_Z_axes.adoc • Check and clean the bellows on the X, Y and Z axes
-MaintenanceTask\CustomerMaintenance\016_Checking_the_lubrication_line_for_air_pockets,_and_exhaust_if_necessary.adoc • Checking the lubrication line for air pockets, and exhaust if necessary
-MaintenanceTask\CustomerMaintenance\019_Testing_the_input_controller_for_operating_pressure.adoc • Testing the input controller for operating pressure
-MaintenanceTask\CustomerMaintenance\021_Check_the_filter_mat_and_cleaningreplacing_if_necessary.adoc • Check the filter mat and cleaning/replacing if necessary
-MaintenanceTask\CustomerMaintenance\023_Change_the_cooling_water.adoc • Change the cooling water
-MaintenanceTask\CustomerMaintenance\029_Check_and_clean_the_laser_filter_mat.adoc • Check and clean the laser filter mat
-MaintenanceTask\CustomerMaintenance\034_Check_the_safety_door_lock_of_the_protective_door.adoc • Check the safety door lock of the protective door (option)
-MaintenanceTask\CustomerMaintenance\035_Check_the_indicator_light_of_the_machine.adoc • Check the indicator light of the machine
-MaintenanceTask\CustomerMaintenance\041_Cleaning_the_chain_of_the_pallet_transport_unit.adoc • Cleaning the chain of the pallet transport unit
-MaintenanceTask\CustomerMaintenance\043_Check_the_track_rollers_and_brushes_at_the_pallet.adoc • Check the track rollers and brushes at the pallet
-MaintenanceTask\CustomerMaintenance\044_Cleaning_the_electrical_cabinet.adoc • Cleaning the electrical cabinet
-MaintenanceTask\CustomerMaintenance\045_Testing_EMERGENCY_STOP_push-button.adoc • Testing EMERGENCY STOP push-button
-MaintenanceTask\CustomerMaintenance\048_Replacing_the_air_filter_of_the_electrical_cabinet_fan.adoc • Replacing the air filter of the electrical cabinet fan
+MaintenanceTask\CustomerMaintenance\1000h.adoc • Testing and cleaning the cable carriers on the X, Y and Z axes
+MaintenanceTask\CustomerMaintenance\1000h1.adoc • Check the safety door lock of the protective door (option)
+MaintenanceTask\CustomerMaintenance\100h.adoc • Check the filter mat and cleaning/replacing if necessary
+MaintenanceTask\CustomerMaintenance\100h2.adoc • Check and clean the laser filter mat
+MaintenanceTask\CustomerMaintenance\2000h.adoc • Clean the guideway of the X, Y axes
+MaintenanceTask\CustomerMaintenance\2000h1.adoc • Cleaning the racks on the X and Y axes
+MaintenanceTask\CustomerMaintenance\2000h2.adoc • Check and clean the bellows on the X, Y and Z axes
+MaintenanceTask\CustomerMaintenance\2000h3.adoc • Checking the lubrication line for air pockets, and exhaust if necessary
+MaintenanceTask\CustomerMaintenance\2000h4.adoc • Testing the input controller for operating pressure
+MaintenanceTask\CustomerMaintenance\2000h5.adoc • Check the indicator light of the machine
+MaintenanceTask\CustomerMaintenance\2000h6.adoc • Cleaning the chain of the pallet transport unit
+MaintenanceTask\CustomerMaintenance\2000h7.adoc • Check the track rollers and brushes at the pallet
+MaintenanceTask\CustomerMaintenance\200h.adoc • Replacing the air filter of the electrical cabinet fan
+MaintenanceTask\CustomerMaintenance\3000h.adoc • Cleaning the electrical cabinet
+MaintenanceTask\CustomerMaintenance\3000h1.adoc • Testing EMERGENCY STOP push-button
+MaintenanceTask\CustomerMaintenance\400h.adoc • Change the cooling water
+MaintenanceTask\CustomerMaintenance\500h.adoc • Lubricating the Z axis guide carriage
+MaintenanceTask\CustomerMaintenance\7000h.adoc • Replace the filter cartridge
+MaintenanceTask\CustomerMaintenance\70h.adoc • Check the dust collection box
 MaintenanceTask\CustomerMaintenance\Contents.txt
 MaintenanceTask\CustomerMaintenance\Index.adoc • Customer maintenance
-MaintenanceTask\DailyMaintenance\004_Check_or_clean_spark_arrester.adoc • Check or clean spark arrester
-MaintenanceTask\DailyMaintenance\006_Check_the_pressure_reducer_and_compressed_air_supply.adoc • Check the pressure reducer and compressed air supply
-MaintenanceTask\DailyMaintenance\009_Cleaning_the_internal_exhaust_module.adoc • Cleaning the internal exhaust module
-MaintenanceTask\DailyMaintenance\031_Check_safety_cabin_and_laser_protection_window.adoc • Check safety cabin and laser protection window
-MaintenanceTask\DailyMaintenance\033_Clean_the_machine_and_working_area.adoc • Clean the machine and working area
-MaintenanceTask\DailyMaintenance\037_Check_the_proximity_switch_at_pallet_gate.adoc • Check the proximity switch at pallet gate (option)
-MaintenanceTask\DailyMaintenance\039_Cleaning_toothed_slats_and_support,_and_replacing_them_if_necessary.adoc • Cleaning toothed slats and support, and replacing them if necessary
-MaintenanceTask\DailyMaintenance\040_Check_the_pallet_for_damage.adoc • Check the pallet for damage
-MaintenanceTask\DailyMaintenance\051_Cleaning_the_ceramic_part.adoc • Cleaning the ceramic part
-MaintenanceTask\DailyMaintenance\052_Cleaning_and_if_necessary_replacing_the_cutting_nozzle.adoc • Cleaning and, if necessary, replacing the cutting nozzle and lateral air blast nozzle
-MaintenanceTask\DailyMaintenance\056_Empty_the_scrap_bin_and_clean_the_loading_area.adoc • Empty the scrap bin and clean the loading area
-MaintenanceTask\DailyMaintenance\057_Checking_the_safety_light_barrier.adoc • Checking the safety light barrier
-MaintenanceTask\DailyMaintenance\contents.txt • 262710.062704
+MaintenanceTask\DailyMaintenance\8h.adoc • Check or clean spark arrester
+MaintenanceTask\DailyMaintenance\8h1.adoc • Check the pressure reducer and compressed air supply
+MaintenanceTask\DailyMaintenance\8h10.adoc • Empty the scrap bin and clean the loading area
+MaintenanceTask\DailyMaintenance\8h11.adoc • Checking the safety light barrier
+MaintenanceTask\DailyMaintenance\8h2.adoc • Cleaning the internal exhaust module
+MaintenanceTask\DailyMaintenance\8h3.adoc • Check safety cabin and laser protection window
+MaintenanceTask\DailyMaintenance\8h4.adoc • Clean the machine and working area
+MaintenanceTask\DailyMaintenance\8h5.adoc • Check the proximity switch at pallet gate (option)
+MaintenanceTask\DailyMaintenance\8h6.adoc • Cleaning toothed slats and support, and replacing them if necessary
+MaintenanceTask\DailyMaintenance\8h7.adoc • Check the pallet for damage
+MaintenanceTask\DailyMaintenance\8h8.adoc • Cleaning the ceramic part
+MaintenanceTask\DailyMaintenance\8h9.adoc • Cleaning and, if necessary, replacing the cutting nozzle and lateral air blast nozzle
+MaintenanceTask\DailyMaintenance\contents.txt • 261717.031742
 MaintenanceTask\DailyMaintenance\Index.adoc • Daily maintenance
 MaintenanceTask\CustomerMaintenance\img\image1.GIF
 MaintenanceTask\DailyMaintenance\img\image28.GIF

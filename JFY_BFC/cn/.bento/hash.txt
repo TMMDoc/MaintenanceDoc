@@ -1,0 +1,51 @@
+Version=58
+LANGUAGE=EN
+Folders=4
+Pages=37
+UIXlate=False, DebugUIXlate=False, Language=EN
+
+contents.txt • 261717.031742
+Index.adoc • BFC 维护手册
+Maintenance.adoc • 维护信息
+manifest.txt • 261717.031742
+SafetyInstruction.adoc • 安全说明
+img\image1.GIF
+MaintenanceTask\contents.txt • 261717.031742
+MaintenanceTask\Index.adoc • 维护任务
+MaintenanceTask\CustomerMaintenance\1000h.adoc • 检查并清洁 X、Y、Z 轴拖链
+MaintenanceTask\CustomerMaintenance\1000h1.adoc • 检查防护门安全门锁（选项）
+MaintenanceTask\CustomerMaintenance\100h.adoc • 检查过滤网，必要时清洁或更换
+MaintenanceTask\CustomerMaintenance\100h2.adoc • 检查并清洁激光器过滤网
+MaintenanceTask\CustomerMaintenance\2000h.adoc • 清洁 X、Y 轴导轨
+MaintenanceTask\CustomerMaintenance\2000h1.adoc • 清洁 X、Y 轴齿条
+MaintenanceTask\CustomerMaintenance\2000h2.adoc • 检查并清洁 X、Y、Z 轴风琴式保护罩
+MaintenanceTask\CustomerMaintenance\2000h3.adoc • 检查润滑管路是否气塞，必要时排气
+MaintenanceTask\CustomerMaintenance\2000h4.adoc • 检查工作压力的输入端调节器
+MaintenanceTask\CustomerMaintenance\2000h5.adoc • 检查机床指示灯
+MaintenanceTask\CustomerMaintenance\2000h6.adoc • 清洁托盘传动链条
+MaintenanceTask\CustomerMaintenance\2000h7.adoc • 检查托盘上的滚轮和刷子
+MaintenanceTask\CustomerMaintenance\200h.adoc • 更换电控柜风扇的空气过滤网
+MaintenanceTask\CustomerMaintenance\3000h.adoc • 清洁电控柜
+MaintenanceTask\CustomerMaintenance\3000h1.adoc • 检查急停按钮
+MaintenanceTask\CustomerMaintenance\400h.adoc • 更换冷却水
+MaintenanceTask\CustomerMaintenance\500h.adoc • 润滑 Z 轴导轨滑块
+MaintenanceTask\CustomerMaintenance\7000h.adoc • 更换滤芯筒
+MaintenanceTask\CustomerMaintenance\70h.adoc • 检查粉尘收集盒
+MaintenanceTask\CustomerMaintenance\Contents.txt
+MaintenanceTask\CustomerMaintenance\Index.adoc • 客户维护
+MaintenanceTask\DailyMaintenance\8h.adoc • 检查或清洁火花捕捉器
+MaintenanceTask\DailyMaintenance\8h1.adoc • 检查减压阀和压缩空气供应
+MaintenanceTask\DailyMaintenance\8h10.adoc • 清空废料箱并清洁装载区域
+MaintenanceTask\DailyMaintenance\8h11.adoc • 检查安全光栅
+MaintenanceTask\DailyMaintenance\8h2.adoc • 清洁内部排气模块
+MaintenanceTask\DailyMaintenance\8h3.adoc • 检查安全防护罩和激光防护视窗
+MaintenanceTask\DailyMaintenance\8h4.adoc • 清洁机床和工作区域
+MaintenanceTask\DailyMaintenance\8h5.adoc • 检查托盘门接近开关（选项）
+MaintenanceTask\DailyMaintenance\8h6.adoc • 清洁齿形支撑板，必要时进行更换
+MaintenanceTask\DailyMaintenance\8h7.adoc • 检查托盘是否损坏
+MaintenanceTask\DailyMaintenance\8h8.adoc • 清洁陶瓷体
+MaintenanceTask\DailyMaintenance\8h9.adoc • 清洁切割喷嘴和横向吹气喷嘴，必要时进行更换
+MaintenanceTask\DailyMaintenance\contents.txt • 261717.031742
+MaintenanceTask\DailyMaintenance\Index.adoc • 日常维护
+MaintenanceTask\CustomerMaintenance\img\image1.GIF
+MaintenanceTask\DailyMaintenance\img\image28.GIF
