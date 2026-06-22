@@ -5,9 +5,9 @@ Pages=37
 UIXlate=False, DebugUIXlate=False, Language=EN
 
 contents.txt • 261717.031742
-Index.adoc • BFC Maintenance Manual
+Index.adoc • BFC+ Maintenance Manual
 Maintenance.adoc • Information on maintenance
-manifest.txt • 261717.031742
+manifest.txt • 262522.022529
 SafetyInstruction.adoc • Safety instructions
 img\image1.GIF
 MaintenanceTask\contents.txt • 261717.031742

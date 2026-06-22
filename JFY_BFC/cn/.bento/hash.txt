@@ -5,9 +5,9 @@ Pages=37
 UIXlate=False, DebugUIXlate=False, Language=EN
 
 contents.txt • 261717.031742
-Index.adoc • BFC 维护手册
+Index.adoc • BFC+ 维护手册
 Maintenance.adoc • 维护信息
-manifest.txt • 261717.031742
+manifest.txt • 262522.022526
 SafetyInstruction.adoc • 安全说明
 img\image1.GIF
 MaintenanceTask\contents.txt • 261717.031742
