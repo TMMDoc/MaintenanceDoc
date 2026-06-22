@@ -7,12 +7,12 @@ Folders=4
 Pages=61
 UIXlate=False, DebugUIXlate=False, Language=EN
 
-contents.txt • 262206.062254
+contents.txt • 261717.031743
 Index.adoc • L99维护手册
 Maintenance.adoc • 维护概述
-manifest.txt • 262406.062442
+manifest.txt • 263622.023602
 SafetyInstruction.adoc • 安全说明
-MaintenanceTask\contents.txt • 262206.062254
+MaintenanceTask\contents.txt • 261717.031743
 MaintenanceTask\Index.adoc • 维护任务
 MaintenanceTask\DailyMaintenance\8h.adoc • 检查或清理粉尘容器
 MaintenanceTask\DailyMaintenance\8h1.adoc • 检查减压器和压缩空气供应
@@ -34,7 +34,7 @@ MaintenanceTask\DailyMaintenance\8h6.adoc • 检查后门接近开关
 MaintenanceTask\DailyMaintenance\8h7.adoc • 清洁机床和工作间
 MaintenanceTask\DailyMaintenance\8h8.adoc • 清洁剑栅以及剑栅架，必要时进行更换
 MaintenanceTask\DailyMaintenance\8h9.adoc • 检查工作台是否有损坏
-MaintenanceTask\DailyMaintenance\contents.txt • 262206.062253
+MaintenanceTask\DailyMaintenance\contents.txt • 261717.031742
 MaintenanceTask\DailyMaintenance\Index.adoc • 日常保养
 MaintenanceTask\RoutineMaintenance\1000h.adoc • 检查保护门安全门锁
 MaintenanceTask\RoutineMaintenance\100h1.adoc • 检查过滤网,必要时清洁并更换
@@ -71,5 +71,5 @@ MaintenanceTask\RoutineMaintenance\500h3.adoc • 清洁校准板和喷嘴清洁
 MaintenanceTask\RoutineMaintenance\500h4.adoc • 检查牵引链条和传动销
 MaintenanceTask\RoutineMaintenance\500h5.adoc • 检查板料定位夹钳（选项）
 MaintenanceTask\RoutineMaintenance\7000h.adoc • 更换滤芯筒
-MaintenanceTask\RoutineMaintenance\contents.txt • 262206.062254
+MaintenanceTask\RoutineMaintenance\contents.txt • 261717.031743
 MaintenanceTask\RoutineMaintenance\Index.adoc • 客户维护

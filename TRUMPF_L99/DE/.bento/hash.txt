@@ -7,12 +7,12 @@ Folders=4
 Pages=61
 UIXlate=False, DebugUIXlate=False, Language=EN
 
-contents.txt • 263621.063619
+contents.txt • 261717.031743
 Index.adoc • L99 Wartungshandbuch
 Maintenance.adoc • Wartungsübersicht
-manifest.txt • 263621.063619
+manifest.txt • 263622.023609
 SafetyInstruction.adoc • Sicherheitshinweise
-MaintenanceTask\contents.txt • 263621.063619
+MaintenanceTask\contents.txt • 261717.031743
 MaintenanceTask\Index.adoc • Wartungsaufgaben
 MaintenanceTask\DailyMaintenance\8h.adoc • Einwegbehälter prüfen oder reinigen
 MaintenanceTask\DailyMaintenance\8h1.adoc • Druckminderer und Druckluftversorgung prüfen
@@ -34,7 +34,7 @@ MaintenanceTask\DailyMaintenance\8h6.adoc • Näherungsschalter am Palettentor 
 MaintenanceTask\DailyMaintenance\8h7.adoc • Maschine und Arbeitsbereich reinigen
 MaintenanceTask\DailyMaintenance\8h8.adoc • Lamellen und Lamellenauflagen reinigen und bei Bedarf ersetzen
 MaintenanceTask\DailyMaintenance\8h9.adoc • Palette auf Beschädigungen prüfen
-MaintenanceTask\DailyMaintenance\contents.txt • 263621.063619
+MaintenanceTask\DailyMaintenance\contents.txt • 261717.031743
 MaintenanceTask\DailyMaintenance\Index.adoc • Tägliche Wartung
 MaintenanceTask\RoutineMaintenance\1000h.adoc • Sicherheitstürschloss der Schutztür prüfen
 MaintenanceTask\RoutineMaintenance\100h1.adoc • Filtermatte prüfen und ggf. reinigen/ersetzen
@@ -71,5 +71,5 @@ MaintenanceTask\RoutineMaintenance\500h3.adoc • Kalibrierplatte und Düsenrein
 MaintenanceTask\RoutineMaintenance\500h4.adoc • Zugkette und Antriebsstift prüfen
 MaintenanceTask\RoutineMaintenance\500h5.adoc • Blechpositionierklemme prüfen
 MaintenanceTask\RoutineMaintenance\7000h.adoc • Filterpatrone ersetzen
-MaintenanceTask\RoutineMaintenance\contents.txt • 263621.063619
+MaintenanceTask\RoutineMaintenance\contents.txt • 261717.031743
 MaintenanceTask\RoutineMaintenance\Index.adoc • Kundenwartung
